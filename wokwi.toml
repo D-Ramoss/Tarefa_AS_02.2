@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/Tarefa_AS_02.2.uf2'
+elf = 'build/Tarefa_AS_02.2.elf'
